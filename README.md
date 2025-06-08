@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Vikram Singh</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack and React Native developer from India</h3>
 
 <img align="right" alt="coding" width="400"  src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b952l0xapb954ro80uxkadtj3lxrvxqycsx875un45cg&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
